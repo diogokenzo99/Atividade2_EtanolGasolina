@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Atividade2_EtanolGasolina</string>
+    <string name="precoGasolina">Preço da gasolina</string>
+    <string name="precoEtanol">Preço do etanol</string>
+    <string name="recomendation">É melhor usar</string>
+    <string name="resultGasolina">Gasolina</string>
+    <string name="resultEtanol">Etanol</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Atividade2_EtanolGasolina</string>
+    <string name="precoGasolina">汽油价格</string>
+    <string name="precoEtanol">乙醇价格</string>
+    <string name="recomendation">最好用</string>
+    <string name="resultGasolina">汽油</string>
+    <string name="resultEtanol">乙醇</string>
+</resources>

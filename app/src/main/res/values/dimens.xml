@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="paddingTextView">4dp</dimen>
+    <dimen name="resultTextView">40sp</dimen>
+    <dimen name="priceMaxWidth">60sp</dimen>
+
+</resources>

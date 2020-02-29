@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Atividade2_EtanolGasolina</string>
+    <string name="precoGasolina">Gas Price</string>
+    <string name="precoEtanol">Alcohol Price</string>
+    <string name="recomendation">Is better to use</string>
+    <string name="resultGasolina">Gas</string>
+    <string name="resultEtanol">Alcohol</string>
+</resources>
